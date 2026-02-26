@@ -3,10 +3,6 @@
 <h3 align="center">Hybrid Authentication (OIDC + Ahamatic) for ASP.NET Core</h3>
 
 <p align="center">
-  Developed by <a href="https://ahastudio.io/" target="_blank">ahaStudio</a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/.NET-8.0-blueviolet?logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/NuGet-Cidaas.Net.Sdk.Core-success?logo=nuget" />
   <img src="https://img.shields.io/badge/License-MIT-green" />
@@ -206,5 +202,5 @@ See the `LICENSE` file for details.
 ---
 
 <p align="center">
-  Built with ❤️ by <strong>ahaStudio</strong> • <a href="https://ahastudio.com">ahastudio.com</a>
+  Built with ❤️ by <strong>turinconweb</strong>
 </p>
